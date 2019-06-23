@@ -40,3 +40,4 @@ Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) fr
 Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
 # smartdevbr.github.io
 # cosmarca.github.io
+# smartdevbr.github.io
