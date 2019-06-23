@@ -1,15 +1,14 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [App Landing Page Template](https://www.tailwindtoolbox.com/templates/app-landing-page)
+# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Profile-Card](https://www.tailwindtoolbox.com/templates/profile-card)
 
-[App Landing Page](https://www.tailwindtoolbox.com/templates/app-landing-page) is an open source, generic App Landing Page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+[Profile Card](https://www.tailwindtoolbox.com/templates/profile-card) is a single page template for use as a user profile website / card created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
-![App Landing Page](https://www.tailwindtoolbox.com/templates/app-landing.png)
-
+![Profile Card](https://www.tailwindtoolbox.com/templates/profile-card.png)
 
 ## Getting Started
 
 Choose one of the following options to get started:
-* [Download the latest release](https://github.com/tailwindtoolbox/App-Landing-Page/archive/master.zip)
-* Clone the repo: `git clone https://github.com/tailwindtoolbox/App-Landing-Page.git`
+* [Download the latest release](https://github.com/tailwindtoolbox/Profile-Card/archive/master.zip)
+* Clone the repo: `git clone https://github.com/tailwindtoolbox/Profile-Card.git`
 * Fork the repo
 
 ## Using the Template
@@ -21,7 +20,7 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/App-Landing-Page/issues/new) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Profile-Card/issues/new) here on GitHub.
 
 ## Creator
 
