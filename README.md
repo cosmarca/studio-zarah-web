@@ -41,3 +41,5 @@ Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
 # smartdevbr.github.io
 # cosmarca.github.io
 # smartdevbr.github.io
+# cosmarca.github.io
+# studio-zarah-web
